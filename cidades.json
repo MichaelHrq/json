@@ -1,5 +1,5 @@
 {
-   "12":[
+   "AC":[
       {
          "municipio-id":1200013,
          "municipio-nome":"Acrelândia"
@@ -89,7 +89,7 @@
          "municipio-nome":"Xapuri"
       }
    ],
-   "27":[
+   "AL":[
       {
          "municipio-id":2700102,
          "municipio-nome":"Água Branca"
@@ -499,7 +499,7 @@
          "municipio-nome":"Viçosa"
       }
    ],
-   "16":[
+   "AP":[
       {
          "municipio-id":1600105,
          "municipio-nome":"Amapá"
@@ -565,7 +565,7 @@
          "municipio-nome":"Vitória do Jari"
       }
    ],
-   "13":[
+   "AM":[
       {
          "municipio-id":1300029,
          "municipio-nome":"Alvarães"
@@ -815,7 +815,7 @@
          "municipio-nome":"Urucurituba"
       }
    ],
-   "29":[
+   "BA":[
       {
          "municipio-id":2900108,
          "municipio-nome":"Abaíra"
@@ -2485,7 +2485,7 @@
          "municipio-nome":"Xique-Xique"
       }
    ],
-   "23":[
+   "CE":[
       {
          "municipio-id":2300101,
          "municipio-nome":"Abaiara"
@@ -3223,13 +3223,13 @@
          "municipio-nome":"Viçosa do Ceará"
       }
    ],
-   "53":[
+   "DF":[
       {
          "municipio-id":5300108,
          "municipio-nome":"Brasília"
       }
    ],
-   "32":[
+   "ES":[
       {
          "municipio-id":3200102,
          "municipio-nome":"Afonso Cláudio"
@@ -3543,7 +3543,7 @@
          "municipio-nome":"Vitória"
       }
    ],
-   "52":[
+   "GO":[
       {
          "municipio-id":5200050,
          "municipio-nome":"Abadia de Goiás"
@@ -4529,7 +4529,7 @@
          "municipio-nome":"Vila Propício"
       }
    ],
-   "21":[
+   "MA":[
       {
          "municipio-id":2100055,
          "municipio-nome":"Açailândia"
@@ -5399,7 +5399,7 @@
          "municipio-nome":"Zé Doca"
       }
    ],
-   "51":[
+   "MT":[
       {
          "municipio-id":5100102,
          "municipio-nome":"Acorizal"
@@ -5965,7 +5965,7 @@
          "municipio-nome":"Vila Rica"
       }
    ],
-   "50":[
+   "MS":[
       {
          "municipio-id":5000203,
          "municipio-nome":"Água Clara"
@@ -6283,7 +6283,7 @@
          "municipio-nome":"Vicentina"
       }
    ],
-   "31":[
+   "MG":[
       {
          "municipio-id":3100104,
          "municipio-nome":"Abadia dos Dourados"
@@ -9697,7 +9697,7 @@
          "municipio-nome":"Wenceslau Braz"
       }
    ],
-   "15":[
+   "PA":[
       {
          "municipio-id":1500107,
          "municipio-nome":"Abaetetuba"
@@ -10275,7 +10275,7 @@
          "municipio-nome":"Xinguara"
       }
    ],
-   "25":[
+   "PB":[
       {
          "municipio-id":2500106,
          "municipio-nome":"Água Branca"
@@ -11169,7 +11169,7 @@
          "municipio-nome":"Zabelê"
       }
    ],
-   "41":[
+   "PR":[
       {
          "municipio-id":4100103,
          "municipio-nome":"Abatiá"
@@ -12767,7 +12767,7 @@
          "municipio-nome":"Xambrê"
       }
    ],
-   "26":[
+   "PE":[
       {
          "municipio-id":2600054,
          "municipio-nome":"Abreu e Lima"
@@ -13509,7 +13509,7 @@
          "municipio-nome":"Xexéu"
       }
    ],
-   "22":[
+   "PI":[
       {
          "municipio-id":2200053,
          "municipio-nome":"Acauã"
@@ -14407,7 +14407,7 @@
          "municipio-nome":"Wall Ferraz"
       }
    ],
-   "33":[
+   "RJ":[
       {
          "municipio-id":3300100,
          "municipio-nome":"Angra dos Reis"
@@ -14777,7 +14777,7 @@
          "municipio-nome":"Volta Redonda"
       }
    ],
-   "24":[
+   "RN":[
       {
          "municipio-id":2400109,
          "municipio-nome":"Acari"
@@ -15447,7 +15447,7 @@
          "municipio-nome":"Vila Flor"
       }
    ],
-   "43":[
+   "RS":[
       {
          "municipio-id":4300034,
          "municipio-nome":"Aceguá"
@@ -17437,7 +17437,7 @@
          "municipio-nome":"Xangri-lá"
       }
    ],
-   "11":[
+   "RO":[
       {
          "municipio-id":1100015,
          "municipio-nome":"Alta Floresta D'Oeste"
@@ -17647,7 +17647,7 @@
          "municipio-nome":"Vilhena"
       }
    ],
-   "14":[
+   "RR":[
       {
          "municipio-id":1400050,
          "municipio-nome":"Alto Alegre"
@@ -17709,7 +17709,7 @@
          "municipio-nome":"Uiramutã"
       }
    ],
-   "42":[
+   "SC":[
       {
          "municipio-id":4200051,
          "municipio-nome":"Abdon Batista"
@@ -18891,7 +18891,7 @@
          "municipio-nome":"Zortéa"
       }
    ],
-   "35":[
+   "SP":[
       {
          "municipio-id":3500105,
          "municipio-nome":"Adamantina"
@@ -21473,7 +21473,7 @@
          "municipio-nome":"Zacarias"
       }
    ],
-   "28":[
+   "SE":[
       {
          "municipio-id":2800100,
          "municipio-nome":"Amparo do São Francisco"
@@ -21775,7 +21775,7 @@
          "municipio-nome":"Umbaúba"
       }
    ],
-   "17":[
+   "TO":[
       {
          "municipio-id":1700251,
          "municipio-nome":"Abreulândia"
